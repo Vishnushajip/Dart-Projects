@@ -11,6 +11,8 @@ void main() {
     number = number ~/ 10;
   }
 
+
+
   if (sum == temp) {
     print('Its A Palindrome number');
   } else {
