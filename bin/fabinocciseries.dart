@@ -6,7 +6,7 @@ void main() {
 }
 
 int fibonacci(int n) {
-  // The first two numbers in the sequence are 0 and 1
+  // The first two numbers in tgit inithe sequence are 0 and 1
   if (n == 0 || n == 1) {
     return n;
   }
